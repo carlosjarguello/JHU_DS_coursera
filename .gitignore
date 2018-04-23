@@ -1,2 +1,5 @@
 *.csv
 all_material/
+*.xml
+*.xlsx
+*.Rhistory
